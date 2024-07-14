@@ -6,6 +6,15 @@
 <h3 align="center">💻 Dev Hours</h3>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 06 July 2024 - To: 13 July 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
