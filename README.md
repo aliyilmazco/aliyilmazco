@@ -10,3 +10,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliyilmazco&show_icons=true&locale=en" alt="aliyilmazco" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliyilmazco&" alt="aliyilmazco" /></p>
+
+<h3>💻 Dev Hours</h3>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+</div>
