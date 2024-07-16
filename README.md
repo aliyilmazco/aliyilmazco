@@ -8,13 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2024 - To: 14 July 2024
+From: 08 July 2024 - To: 15 July 2024
 
-Total Time: 30 mins
+Total Time: 2 hrs 30 mins
 
-YAML       18 mins         ███████████████▒░░░░░░░░░   61.34 %
-Markdown   8 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.33 %
-PHP        3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
+PHP             1 hr 28 mins    ██████████████▓░░░░░░░░░░   58.93 %
+JavaScript      34 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.71 %
+YAML            18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+Markdown        8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+Apache Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
