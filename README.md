@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2024 - To: 13 August 2024
+From: 07 August 2024 - To: 14 August 2024
 
-Total Time: 5 hrs 13 mins
+Total Time: 4 hrs 33 mins
 
-Other           3 hrs 49 mins   ██████████████████▒░░░░░░   73.42 %
-PHP             47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
-Python          30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
-Bash            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Text            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Other           3 hrs 48 mins   █████████████████████░░░░   83.52 %
+Python          30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+PHP             9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Bash            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Text            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
