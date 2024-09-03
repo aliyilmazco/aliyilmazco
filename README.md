@@ -8,14 +8,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2024 - To: 02 September 2024
+From: 27 August 2024 - To: 03 September 2024
 
-Total Time: 3 hrs 9 mins
+Total Time: 2 hrs 56 mins
 
-PHP             1 hr 37 mins    █████████████░░░░░░░░░░░░   51.67 %
-Dart            48 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.45 %
-Other           33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.52 %
-HTML            10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+PHP             1 hr 34 mins    █████████████▒░░░░░░░░░░░   53.75 %
+Markdown        36 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.86 %
+Other           34 mins         █████░░░░░░░░░░░░░░░░░░░░   19.64 %
+HTML            10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
 Apache Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
