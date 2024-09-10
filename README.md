@@ -8,14 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2024 - To: 09 September 2024
+From: 03 September 2024 - To: 10 September 2024
 
-Total Time: 1 hr 6 mins
+Total Time: 36 mins
 
-Markdown   36 mins         █████████████▓░░░░░░░░░░░   55.17 %
-Other      22 mins         ████████▒░░░░░░░░░░░░░░░░   33.09 %
-PHP        6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
-HTML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Other   32 mins         ██████████████████████░░░   88.34 %
+PHP     3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+HTML    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
 ```
 
 <!--END_SECTION:waka-->
