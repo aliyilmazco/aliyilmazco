@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2024 - To: 16 September 2024
+From: 10 September 2024 - To: 17 September 2024
 
-Total Time: 26 mins
+Total Time: 14 mins
 
-Other        13 mins         ████████████▒░░░░░░░░░░░░   49.68 %
-HTML         8 mins          ███████▒░░░░░░░░░░░░░░░░░   29.94 %
-PHP          4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
-JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+HTML         8 mins          ██████████████░░░░░░░░░░░   56.33 %
+PHP          4 mins          ████████░░░░░░░░░░░░░░░░░   32.51 %
+JavaScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Other        0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
