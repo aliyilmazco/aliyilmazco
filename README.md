@@ -7,3 +7,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/aliyilmazco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliyilmazco" height="30" width="40" /></a>
 </p>
+<a href="https://www.buymeacoffee.com/aliyilmazco" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
