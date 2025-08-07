@@ -1,10 +1,32 @@
-### Hi there! I am Aly👋
+```yaml
+name: Ali Yılmaz
+title: Software Developer
+about: >
+  Software developer experienced in Flutter, Unity, JS, Vue, TS, Node.js, PHP, Go & AI.
+  Specializes in web, mobile & backend development. Currently at XON Technology Inc.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliyilmazco&label=Profile%20views&color=0e75b6&style=flat" alt="aliyilmazco" /> </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aliyilmazco&show_icons=true&locale=en" alt="aliyilmazco" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliyilmazco&" alt="aliyilmazco" /></p>
+work_experience:
+  - XON Technology Inc. (2023–Present): Software Developer — API dev, AI/LLM integration, security testing, Flutter & Vue dev
+  - Vessac Game Studios (2022–2023): Team Lead & Flutter Dev — Led team, Unity & Flutter projects
+  - Freelance (2022–Present): Flutter & Full Stack Dev — Mobile apps, DB & API design, publishing
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aliyilmazco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliyilmazco" height="30" width="40" /></a>
-</p>
-<a href="https://www.buymeacoffee.com/aliyilmazco" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+tech_stack:
+  languages_frameworks: [Flutter, Unity, JS, TS, Python, Vue, React, Next.js, Node.js, C, C#, WPF, Go, Rust, PHP]
+  databases: [MongoDB, MariaDB, MySQL, Firebase, Supabase]
+  others: [Web Security, AI & LLM, API Dev, Game Dev]
+
+education:
+  - Yalova University (2018–2025): BSc Computer Engineering
+  - Ayyıldız Anadolu HS (2014–2018): High School Diploma
+
+volunteering_leadership:
+  - Team Leader: Yalova University AI Community
+  - Organizer: Yalova Google Developer Groups
+
+contact:
+  linkedin: https://linkedin.com/in/aliyilmazco
+  email: okethis@gmail.com
+  mastodon: https://mastodon.social/@aliyilmazco
+
+copyright: "© 2025 Ali Yılmaz. All rights reserved."
+```
