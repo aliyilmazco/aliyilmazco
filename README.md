@@ -1,32 +1,36 @@
-```yaml
-name: Ali Yılmaz
-title: Software Developer
-about: >
-  Software developer experienced in Flutter, Unity, JS, Vue, TS, Node.js, PHP, Go & AI.
-  Specializes in web, mobile & backend development. Currently at XON Technology Inc.
+# Ali Yılmaz
 
-work_experience:
-  - XON Technology Inc. (2023–Present): Software Developer — API dev, AI/LLM integration, security testing, Flutter & Vue dev
-  - Vessac Game Studios (2022–2023): Team Lead & Flutter Dev — Led team, Unity & Flutter projects
-  - Freelance (2022–Present): Flutter & Full Stack Dev — Mobile apps, DB & API design, publishing
+> Software developer building product-focused systems across web, mobile, backend and applied AI.
 
-tech_stack:
-  languages_frameworks: [Flutter, Unity, JS, TS, Python, Vue, React, Next.js, Node.js, C, C#, WPF, Go, Rust, PHP]
-  databases: [MongoDB, MariaDB, MySQL, Firebase, Supabase]
-  others: [Web Security, AI & LLM, API Dev, Game Dev]
+I build software where interfaces, services and workflows need to connect cleanly. My work sits across cross-platform apps, backend APIs, automation and AI-assisted features, with a strong preference for systems that are maintainable, practical and ready for production.
 
-education:
-  - Yalova University (2018–2025): BSc Computer Engineering
-  - Ayyıldız Anadolu HS (2014–2018): High School Diploma
+## Work
 
-volunteering_leadership:
-  - Team Leader: Yalova University AI Community
-  - Organizer: Yalova Google Developer Groups
+At **XON Technology**, I work on internal and customer-facing systems involving API development, applied AI/LLM integrations, security-oriented engineering tasks, and product implementation with **Flutter** and **Vue**.
 
-contact:
-  linkedin: https://linkedin.com/in/aliyilmazco
-  email: okethis@gmail.com
-  mastodon: https://mastodon.social/@aliyilmazco
+Previously, I led development at **Vessac Game Studios**, coordinating delivery across **Unity** and **Flutter** projects. Alongside that, I continue to take on independent product work covering mobile applications, backend architecture, database design and end-to-end delivery.
 
-copyright: "© 2025 Ali Yılmaz. All rights reserved."
-```
+## What I build
+
+- backend APIs and service integrations
+- AI-assisted product features and workflow automation
+- mobile and web applications connected to real business logic
+- internal tools that reduce operational friction
+- systems designed for clarity, maintainability and reliable delivery
+
+## Approach
+
+I prefer clear systems over clever complexity.  
+I care about maintainability as much as shipping speed.  
+I like products where backend logic and user experience are tightly connected.  
+I enjoy turning messy workflows into reliable tools.
+
+## Current focus
+
+Applied AI in production workflows, backend architecture, cross-platform product systems, developer tooling and security-aware engineering.
+
+## Elsewhere
+
+- LinkedIn — [linkedin.com/in/aliyilmazco](https://linkedin.com/in/aliyilmazco)
+- Mastodon — [mastodon.social/@aliyilmazco](https://mastodon.social/@aliyilmazco)
+- Email — [okethis@gmail.com](mailto:okethis@gmail.com)
