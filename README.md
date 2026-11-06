@@ -4,7 +4,7 @@ Software engineer working on backend APIs, applied AI and developer tools. I bui
 
 M.Sc. student in Computer Engineering at Yalova University. I write about backend systems, APIs and AI security at [aliyilmaz.co](https://www.aliyilmaz.co/).
 
-### Open-source work
+### Selected work
 
 | Project | What it does | Status |
 | --- | --- | --- |
